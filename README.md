@@ -1,6 +1,6 @@
 # Supervised machine learning
 
-<h2>To see the project go to the hw1 - Jupyter Notebook.pdf file </h2>
+<h2>To see the project go to the hw3 - Jupyter Notebook.pdf file </h2>
 
 <h3>What you will find in jupyter notebook </h3>
 
